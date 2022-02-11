@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @douglasluna
-- 👀 I’m interested in Cloud Security and DevSecOps
-- 🌱 I’m currently learning AWS, Linux
+- 👀 I’m interested in DevSecOps and Cloud Security.
+- 🌱 I’m currently learning Many things.
 - 📫 How to reach me ...
 
 <!---
