@@ -4,9 +4,9 @@
 - 📫 How to reach me ...
 
 Certifications:
-LPIC-1
-CKA
-AWS Cloud Practitioner
+- LPIC-1
+- CKA
+- AWS Cloud Practitioner
 
 <!---
 douglasluna/douglasluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
