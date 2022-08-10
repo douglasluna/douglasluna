@@ -7,6 +7,8 @@ Certifications:
 - LPIC-1
 - CKA
 - AWS Cloud Practitioner
+- AZ-900
+- SC-900
 
 <!---
 douglasluna/douglasluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
