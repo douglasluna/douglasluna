@@ -5,7 +5,8 @@
 
 Certifications:
 - LPIC-1
-- CKA
+- CKA - Certified Kubernetes Administrator
+- CKS - Certified Kubernetes Security Specialist
 - AWS Cloud Practitioner
 - AZ-900
 - SC-900
