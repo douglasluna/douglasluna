@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @douglasluna
+- 👋 Hi, I’m Douglas Luna.
 - 👀 I’m interested in DevSecOps and Cloud Security.
-- 🌱 I’m currently learning Many things.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about Cloud Security.
 
 Certifications:
 - LPIC-1
