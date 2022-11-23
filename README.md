@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Douglas Luna.
-- 👀 I’m interested in DevSecOps, Cloud Security and Script Languages.
+- 👀 I’m interested in DevSecOps, Cloud Security and Scripting Languages.
 - 🌱 I’m currently learning about Cloud Security.
 
 Certifications:
