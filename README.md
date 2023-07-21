@@ -1,12 +1,14 @@
 - 👋 Hi, I’m Douglas Luna.
-- 👀 I’m interested in DevSecOps, Cloud Security and Scripting Languages.
+- 👀 I’m interested in Cloud Security, DevSecOps and Scripting Languages.
 - 🌱 I’m currently learning about Cloud Security.
 
 Certifications:
 - LPIC-1
 - CKA - Certified Kubernetes Administrator
 - CKS - Certified Kubernetes Security Specialist
+- CCSK - Certificate of Cloud Security Knowledge
 - AWS Cloud Practitioner
+- AWS Solutions Architect Associate
 - AZ-900
 - SC-900
 
