@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Douglas Luna.
-- 👀 I’m interested in Cloud, Container and Kubernetes Security.
+<h1 align="center">
+  👋 Hi, I'm <a href="https://www.linkedin.com/in/douglasluna/" target="_blank">Douglas Luna!</a>
+</h1>
+
+👀 I’m interested in Cloud, Container and Kubernetes Security.
 
 ### 🏅 Certifications
 - CKA - Certified Kubernetes Administrator
@@ -16,6 +19,13 @@
 <!-- BLOG-POST-LIST:START -->
 - [Use a Postura de Segurança do GKE para detectar problemas e acabar com as preocupações](https://blog.douglasluna.com/use-a-postura-de-seguranca-do-gke-para-detectar-problemas-e-acabar-com-as-preocupacoes)
 <!-- BLOG-POST-LIST:END -->
+
+### 🙌 Connect with me
+<div align="center">
+<a href="https://linkedin.com/in/douglasluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="Linkedin" /></a>
+<a href="https://medium.com/@douglasluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" width="40" alt="Medium" /></a>
+<a href="https://dev.to/douglasluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="40" width="40" alt="Dev" /></a>
+</div>
 
 
 <!---
