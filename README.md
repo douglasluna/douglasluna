@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Douglas Luna.
-- 👀 I’m interested in Cloud Security, Cloud native tools, DevSecOps and Security Automation.
-- 🌱 I’m currently learning about Cloud Security.
+- 👀 I’m interested in Cloud, Container and Kubernetes Security.
 
 Certifications:
 - LPIC-1
