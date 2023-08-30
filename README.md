@@ -18,6 +18,7 @@
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Use a Postura de Segurança do GKE para detectar problemas e acabar com as preocupações](https://blog.douglasluna.com/use-a-postura-de-seguranca-do-gke-para-detectar-problemas-e-acabar-com-as-preocupacoes)
+- [Como usar o Workload Identity no GKE: Um guia prático](https://blog.douglasluna.com/como-usar-o-workload-identity-no-gke-um-guia-pratico)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙌 Connect with me
