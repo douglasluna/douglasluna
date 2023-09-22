@@ -9,6 +9,7 @@
 - CKS - Certified Kubernetes Security Specialist
 - CCSK - Certificate of Cloud Security Knowledge
 - Google Cloud Certified Associate Cloud Engineer
+- Google Cloud Certified Professional Cloud Security Engineer
 - AWS Solutions Architect Associate
 - LPIC-1
 - AWS Cloud Practitioner
