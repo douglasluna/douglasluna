@@ -25,7 +25,7 @@ I’m interested in Cloud Security, Kubernetes, Containers and DevSecOps.
 ### 🙌 Connect with me
 <div align="center">
 <a href="https://linkedin.com/in/douglasluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="Linkedin" /></a>
-<a href="https://medium.com/@douglasluna" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" height="40" width="40" alt="Medium" /></a>
+<a href="https://medium.com/@douglasluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" height="40" width="40" alt="Medium" /></a>
 <a href="https://dev.to/douglasluna" target="blank"><img align="center" src="https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" height="40" width="40" alt="Dev" /></a>
 </div>
 
