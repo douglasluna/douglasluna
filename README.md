@@ -4,7 +4,7 @@
 
 I’m interested in Cloud Security, Kubernetes, Containers and DevSecOps.
 
-### Certifications
+### 🏅 Certifications
 <p align="left">
 
 | Certification  | Topic |
@@ -21,7 +21,7 @@ I’m interested in Cloud Security, Kubernetes, Containers and DevSecOps.
 | **SC-900: Microsoft Security, Compliance, and Identity Fundamentals** | <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="20" height="20"/> Azure |
 
 
-### Programming Languages
+### 📄 Programming Languages
 - Bash
 - Go
 - Python
