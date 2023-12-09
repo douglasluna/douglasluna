@@ -7,7 +7,7 @@ I’m interested in Cloud Security, Kubernetes, Containers and DevSecOps.
 ### 🏅 Certifications
 <p align="left">
 
-| Certification  | Topic |
+| Name  | Topic |
 | ------------- | ------------- |
 | **CKS - Certified Kubernetes Security Specialist** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
 | **CKA - Certified Kubernetes Administrator** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
