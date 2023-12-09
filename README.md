@@ -22,10 +22,10 @@ I’m interested in Cloud Security, Kubernetes, Containers and DevSecOps.
 
 
 ### 📄 Programming Languages
-- Bash
-- Go
-- Python
-- Powershell
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" width="90" height="90"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" width="90" height="90"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="90" height="90"/> 
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
