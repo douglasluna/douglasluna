@@ -6,25 +6,26 @@ I’m interested in Cloud Security, Kubernetes, Containers and DevSecOps.
 
 ### Certifications
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> CKA - Certified Kubernetes Administrator
 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> CKS - Certified Kubernetes Security Specialist
+| Certification  | Topic |
+| ------------- | ------------- |
+| **CKS - Certified Kubernetes Security Specialist** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
+| **CKA - Certified Kubernetes Administrator** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
+| **CCSK - Certificate of Cloud Security Knowledge** | <img src="https://cloudsecurityalliance.org/assets/education/ccsk/credly_badge-ed17d466458785c409ac00edc33ffbc8a95ef56aebbd36e969441654a29adc1d.png" alt="ccsk" width="20" height="20"/>  Cloud Security |
+| **Google Cloud Certified Professional Cloud Security Engineer** | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> Google Cloud |
+| **Google Cloud Certified Associate Cloud Engineer** | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> Google Cloud |
+| **AWS Solutions Architect Associate** | <img src="https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/319742695/original/e0139f4a6816c0d623079fe2f69956fb563e16b3/do-something-i-am-really-good-at.png" alt="aws" width="20" height="20"/> AWS |
+| **AWS Cloud Practitioner** | <img src="https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/319742695/original/e0139f4a6816c0d623079fe2f69956fb563e16b3/do-something-i-am-really-good-at.png" alt="aws" width="20" height="20"/> AWS |
+| **Linux Professional Institute LPIC-1** | <img src="https://raw.githubusercontent.com/vital987/vital987/master/assets/linux.svg" alt="linux" width="20" height="20"/> Linux |
+| **AZ-900: Microsoft Azure Fundamentals** | <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="20" height="20"/> Azure |
+| **SC-900: Microsoft Security, Compliance, and Identity Fundamentals** | <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="20" height="20"/> Azure |
 
-<img src="https://cloudsecurityalliance.org/assets/education/ccsk/credly_badge-ed17d466458785c409ac00edc33ffbc8a95ef56aebbd36e969441654a29adc1d.png" alt="ccsk" width="20" height="20"/>  CCSK - Certificate of Cloud Security Knowledge
 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> Google Cloud Certified Associate Cloud Engineer
-
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> Google Cloud Certified Professional Cloud Security Engineer
-
-<img src="https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/319742695/original/e0139f4a6816c0d623079fe2f69956fb563e16b3/do-something-i-am-really-good-at.png" alt="aws" width="20" height="20"/> AWS Solutions Architect Associate
-
-<img src="https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/319742695/original/e0139f4a6816c0d623079fe2f69956fb563e16b3/do-something-i-am-really-good-at.png" alt="aws" width="20" height="20"/> AWS Cloud Practitioner
-
-<img src="https://raw.githubusercontent.com/vital987/vital987/master/assets/linux.svg" alt="linux" width="20" height="20"/> LPIC-1
-
-<img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="20" height="20"/> AZ-900
-
-<img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="20" height="20"/> SC-900
+### Programming Languages
+- Bash
+- Go
+- Python
+- Powershell
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
