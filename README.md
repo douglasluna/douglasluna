@@ -17,6 +17,7 @@ I’m interested in Cloud Security, Kubernetes, Containers and DevSecOps.
 | **AWS Solutions Architect Associate** | <img src="https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/319742695/original/e0139f4a6816c0d623079fe2f69956fb563e16b3/do-something-i-am-really-good-at.png" alt="aws" width="20" height="20"/> AWS |
 | **AWS Cloud Practitioner** | <img src="https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/319742695/original/e0139f4a6816c0d623079fe2f69956fb563e16b3/do-something-i-am-really-good-at.png" alt="aws" width="20" height="20"/> AWS |
 | **Linux Professional Institute LPIC-1** | <img src="https://raw.githubusercontent.com/vital987/vital987/master/assets/linux.svg" alt="linux" width="20" height="20"/> Linux |
+| **Microsoft Certified: Azure Administrator Associate (AZ-104)** | <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="20" height="20"/> Azure |
 | **AZ-900: Microsoft Azure Fundamentals** | <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="20" height="20"/> Azure |
 | **SC-900: Microsoft Security, Compliance, and Identity Fundamentals** | <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="20" height="20"/> Azure |
 
