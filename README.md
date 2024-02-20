@@ -42,13 +42,6 @@ I’m interested in Cloud Security, Kubernetes, Containers and DevSecOps.
 <a href="https://dev.to/douglasluna" target="blank"><img align="center" src="https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" height="40" width="40" alt="Dev" /></a>
 </div>
 
-### :octocat: Github Statistics
-
-<p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=douglasluna&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&exclude_repo=neural-network-bike,docker-samples-by-lang&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="douglasluna" width="480" height="180" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasluna&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=neural-network-bike,docker-samples-by-lang&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="douglasluna"/>
-</p>
-
 <!---
 douglasluna/douglasluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
