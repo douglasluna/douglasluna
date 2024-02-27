@@ -4,6 +4,10 @@
 
 I’m interested in Cloud Security, Kubernetes, Containers and DevSecOps.
 
+### 😊 Volunteering
+
+[Organizer of KCD Brasil, São Paulo 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
+
 ### 🏅 Certifications
 <p align="left">
 
