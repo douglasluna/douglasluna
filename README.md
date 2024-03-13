@@ -2,7 +2,7 @@
   👋 Hi, I'm <a href="https://www.linkedin.com/in/douglasluna/" target="_blank">Douglas Luna!</a>
 </h1>
 
-I’m interested in Cloud Security, Kubernetes, Containers and DevSecOps.
+I’m interested in Cloud Security, Kubernetes, Containers, DevSecOps and CI/CD.
 
 ### 😊 Volunteering
 
