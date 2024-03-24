@@ -15,6 +15,7 @@ I’m interested in Cloud Security, Kubernetes, Containers, DevSecOps and CI/CD.
 | ------------- | ------------- |
 | **CKS: Certified Kubernetes Security Specialist** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
 | **CKA: Certified Kubernetes Administrator** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
+| **KCSA: Kubernetes and Cloud Native Security Associate** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
 | **Certificate of Cloud Security Knowledge (CCSK)** | <img src="https://cloudsecurityalliance.org/assets/education/ccsk/credly_badge-ed17d466458785c409ac00edc33ffbc8a95ef56aebbd36e969441654a29adc1d.png" alt="ccsk" width="20" height="20"/>  Cloud Security |
 | **Google Cloud Certified Professional Cloud Security Engineer** | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> Google Cloud |
 | **Google Cloud Certified Associate Cloud Engineer** | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> Google Cloud |
