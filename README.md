@@ -13,6 +13,7 @@ I’m interested in Cloud Security, Kubernetes, Containers, DevSecOps and CI/CD.
 
 | Name  | Topic |
 | ------------- | ------------- |
+| **1st Brazilian Kubestronaut (successfully passed every CNCF’s Kubernetes certifications)** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
 | **CKS: Certified Kubernetes Security Specialist** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
 | **CKA: Certified Kubernetes Administrator** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
 | **CKAD: Certified Kubernetes Application Developer** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
