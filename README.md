@@ -8,6 +8,10 @@ I’m interested in Cloud Security, Kubernetes, Containers, DevSecOps and CI/CD.
 
 [Organizer of KCD Brasil, São Paulo 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/)
 
+### Talks and Presentations
+
+- [Kubestrounaut Orbit - DOUGBR - DevOps User Group Brazil, March 08, 2025](https://www.youtube.com/watch?v=xMKwOSYCw8M)
+
 ### 🏅 Certifications
 <p align="left">
 
@@ -19,7 +23,7 @@ I’m interested in Cloud Security, Kubernetes, Containers, DevSecOps and CI/CD.
 | **CKAD: Certified Kubernetes Application Developer** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
 | **KCSA: Kubernetes and Cloud Native Security Associate** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
 | **KCNA: Kubernetes and Cloud Native Associate** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> Kubernetes |
-| **Certificate of Cloud Security Knowledge (CCSK)** | <img src="https://cloudsecurityalliance.org/assets/education/ccsk/credly_badge-ed17d466458785c409ac00edc33ffbc8a95ef56aebbd36e969441654a29adc1d.png" alt="ccsk" width="20" height="20"/>  Cloud Security |
+| **Certificate of Cloud Security Knowledge (CCSK)** | <img src="https://images.credly.com/images/7495098d-c8c3-41a8-a81a-772cdc7e6a95/image.png" alt="ccsk" width="20" height="20"/>  Cloud Security |
 | **Google Cloud Certified Professional Cloud Security Engineer** | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> Google Cloud |
 | **Google Cloud Certified Associate Cloud Engineer** | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> Google Cloud |
 | **AWS Solutions Architect Associate** | <img src="https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/319742695/original/e0139f4a6816c0d623079fe2f69956fb563e16b3/do-something-i-am-really-good-at.png" alt="aws" width="20" height="20"/> AWS |
